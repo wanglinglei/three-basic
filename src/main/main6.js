@@ -41,6 +41,8 @@ const cubeGeometry = new THREE.BoxGeometry(2000, 2000, 2000);
 const cubeMaterial = new THREE.MeshBasicMaterial({
   color: 0xffff00,
   map: img1,
+  alphaMap: img1,
+  transparent: true,
 });
 
 // 根据几何体和材质创建材质

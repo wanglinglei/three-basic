@@ -9,7 +9,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## three.js学习
-
+[three.js官方文档]https://threejs.org/
 ### description
 三大核心概念：场景 相机  渲染器
 
